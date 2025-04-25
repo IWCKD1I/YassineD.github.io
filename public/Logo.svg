@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 1366">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: VCROSDMono, 'VCR OSD Mono';
+        font-size: 693.2px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fdede3;
+      }
+
+      .cls-3, .cls-4, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #ff8a00;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" width="1366" height="1366"/>
+  <circle class="cls-4" cx="1072" cy="936" r="45"/>
+  <g>
+    <text class="cls-1" transform="translate(226.66 1004.04)"><tspan x="0" y="0">YD</tspan></text>
+    <rect class="cls-2" x="724.48" y="555.89" width="220.28" height="357.38"/>
+  </g>
+</svg>

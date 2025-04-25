@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
+body {
+    margin: 0;
+    background-color: black;
+    color: white; /* optional: to make text visible */
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+  }
+
+  

@@ -1,0 +1,21 @@
+.navbar-branding {
+    display: flex;
+    align-items: center;  /* Vertically center the items */
+  }
+  
+  .navbar-branding-text .Name {
+    margin-left: 10px;  /* Space between the image and text */
+    margin-bottom: 0;   /* Remove bottom margin for the text */
+    font-size: 1.2rem;  /* Optional: Adjust font size for consistency */
+  }
+  .Function {
+    margin-left: 10px;  /* Space between the image and text */
+    margin-bottom: 0;   /* Remove bottom margin for the text */
+    font-size: 0.8rem;  /* Optional: Adjust font size for consistency */
+    color:rgb(176, 176, 176)
+  }
+  .nav-link.active {
+    color: #ffcc00 !important; /* Example: gold color */
+    font-weight: bold;
+  }
+  
